@@ -4,7 +4,7 @@ Building a PC can be quite complex and overwhelming to anyone who has never buil
 
 If buy the end of this guide you are unsure what components you should use or if the parts you have selected aren't compatable the [PC Part Picker](https://pcpartpicker.com) is a great resource to use.
 
-###Table of Contnents:
+### Table of Contnents:
 - [CPU - Central Processing Unit](cpu.md)
 - [GPU - Graphics Processing Unit](gpu.md)
 - [Case](case.md)
