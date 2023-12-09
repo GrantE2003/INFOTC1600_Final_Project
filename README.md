@@ -3,7 +3,7 @@
 **Author:** Grant Eckhardt
 
 ## Overview
-The purpose of this tutorial is to help explain and simplify the process of selecting components when building your PC regarless of your desired performance.
+The purpose of this tutorial is to help explain and simplify the process of selecting components when building your PC regardless of your desired performance. This tutorial also leaves out the more confusing aspects of each component needed for a basic build as to not confuse the user.
 
 ## Target Audience
 This tutorial is primarly focused towards those who are new to PC building since the process of selecting components can be a daunting task to new builders.
