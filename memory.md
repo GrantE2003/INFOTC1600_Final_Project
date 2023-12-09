@@ -1,5 +1,7 @@
 # Memory (RAM)
 
+-- [Motherboard](motherboard.md) -- [Home](index.md) -- [Storage](storage.md) --
+
 ## Basics
 Memory or best known as RAM - Random Access Memory - is tempory storage for data that the CPU can access quickly.
 
